@@ -1,5 +1,5 @@
 
-# 👩‍💻 Kanchan Kahar | Frontend Web Developer
+# 👩‍💻 Kanchan Kahar 
 
 I am a passionate **Frontend Web Developer** focused on crafting **responsive**, **visually engaging**, and **user-friendly web applications** using **HTML, CSS, JavaScript, and React.js**.  
 My interests lie in solving logical problems, enhancing UI/UX with clean design, and constantly learning cutting-edge web technologies.
