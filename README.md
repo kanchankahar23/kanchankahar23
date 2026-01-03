@@ -1,8 +1,45 @@
+# Hi, I'm Kanchan Kahar 👋
 
-# 👩‍💻 Kanchan Kahar 
+🎓 MCA Student | 💻 Aspiring Full-Stack Developer  
+🚀 Learning by building real-world projects
 
-I am a passionate **Frontend Web Developer** focused on crafting **responsive**, **visually engaging**, and **user-friendly web applications** using **HTML, CSS, JavaScript, and React.js**.  
-My interests lie in solving logical problems, enhancing UI/UX with clean design, and constantly learning cutting-edge web technologies.
+---
 
-📫 **Contact**: kaharkanchan884@gmail.com | [Portfolio](https://portfolio-website-wk7x.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/kanchan-kahar-096903319) | [GitHub](https://github.com/kanchankahar23)
+## 👨‍💻 About Me
+- Web Development & DSA learner  
+- Interested in JavaScript, React & Backend  
+- Actively preparing for placements  
+- Improving communication & technical skills  
 
+---
+
+## 🛠 Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/kanchan-kahar-096903319  
+- **Email:** kaharkanchan884@gmail.com  
+
+---
+
+> **Learn. Build. Improve.**
