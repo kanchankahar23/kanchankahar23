@@ -1,6 +1,6 @@
 # Hi, I'm Kanchan Kahar 
 
-🎓 MCA Student | 💻 Aspiring Full-Stack Developer  
+💻 Aspiring Full-Stack Developer  
 🚀 Learning by building real-world projects
 
 ---
