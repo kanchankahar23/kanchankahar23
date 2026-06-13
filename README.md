@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Kanchan Kahar
+#  Hi, I'm Kanchan Kahar
 
 ### Full Stack Developer | MERN Stack Developer | AI Explorer
 
 💻 Passionate about building modern, scalable, and user-friendly web applications
+
 🚀 Learning by building real-world projects and solving practical problems
+
 🎯 Open to Full Stack Developer, MERN Stack Developer, and Software Developer opportunities
 
 ---
