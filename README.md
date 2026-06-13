@@ -3,9 +3,7 @@
 ### Full Stack Developer | MERN Stack Developer | AI Explorer
 
 💻 Passionate about building modern, scalable, and user-friendly web applications
-
 🚀 Learning by building real-world projects and solving practical problems
-
 🎯 Open to Full Stack Developer, MERN Stack Developer, and Software Developer opportunities
 
 ---
@@ -65,11 +63,8 @@
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/kanchan-kahar-096903319
-
 🌐 Portfolio: https://kanchankahar.vercel.app
-
 📧 Email: [kaharkanchan884@gmail.com](mailto:kaharkanchan884@gmail.com)
-
 🐙 GitHub: https://github.com/kanchankahar23
 
 ---
