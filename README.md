@@ -56,17 +56,16 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kanchankahar23\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchankahar23\&layout=compact\&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchankahar23\&theme=tokyo-night)
-
 ---
 
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/kanchan-kahar-096903319
+
 🌐 Portfolio: https://kanchankahar.vercel.app
+
 📧 Email: [kaharkanchan884@gmail.com](mailto:kaharkanchan884@gmail.com)
+
 🐙 GitHub: https://github.com/kanchankahar23
 
 ---
