@@ -22,9 +22,9 @@
 
 ## 📊 GitHub Analytics
 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchankahar23\&show_icons=true\&theme=tokyonight)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchankahar23\&show_icons=true\&theme=tokyonight)
 
-    ![GitHub Streak](https://streak-stats.demolab.com?user=kanchankahar23\&theme=tokyonight)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=kanchankahar23\&theme=tokyonight)
 
 ---
 
