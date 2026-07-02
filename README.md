@@ -1,4 +1,4 @@
-# Hi, I'm Kanchan Kahar 👋
+# Hi, I'm Kanchan Kahar 
 
 ### React Developer | Frontend Developer | AI Explorer
 
