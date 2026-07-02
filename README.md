@@ -1,30 +1,30 @@
-#  Hi, I'm Kanchan Kahar
+# Hi, I'm Kanchan Kahar 👋
 
-### Full Stack Developer | MERN Stack Developer | AI Explorer
+### React Developer | Frontend Developer | AI Explorer
 
-💻 Passionate about building modern, scalable, and user-friendly web applications
+💻 Passionate about building modern, responsive, and user-friendly web applications.
 
-🚀 Learning by building real-world projects and solving practical problems
+🚀 Learning by building real-world projects and continuously improving my development skills.
 
-🎯 Open to Full Stack Developer, MERN Stack Developer, and Software Developer opportunities
+🎯 Open to React Developer, Frontend Developer, and Software Developer opportunities.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 MCA Graduate (2026)
-* 💡 Passionate about Full Stack Development and Modern Web Technologies
-* 🌱 Currently exploring AI Integrations, System Design, and Cloud Technologies
-* 🚀 Building responsive web applications using the MERN Stack
-* 📚 Continuous learner focused on improving development and problem-solving skills
+- 🎓 MCA Graduate (2026)
+- 💡 Passionate about React.js, JavaScript, and modern frontend development
+- 🌱 Currently learning Node.js, Express.js, and MongoDB
+- 🚀 Experienced in building responsive web applications with React.js and REST APIs
+- 📚 Continuous learner exploring AI integrations and modern web technologies
 
 ---
 
 ## 📊 GitHub Analytics
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchankahar23\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchankahar23&show_icons=true&theme=tokyonight)
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=kanchankahar23\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kanchankahar23&theme=tokyonight)
 
 ---
 
@@ -34,7 +34,7 @@
 
 🌐 Portfolio: https://kanchankahar.vercel.app
 
-📧 Email: [kaharkanchan884@gmail.com](mailto:kaharkanchan884@gmail.com)
+📧 Email: kaharkanchan884@gmail.com
 
 🐙 GitHub: https://github.com/kanchankahar23
 
